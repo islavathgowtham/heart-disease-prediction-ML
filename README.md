@@ -370,8 +370,7 @@ Overall, the developed system provides a valuable example of how Artificial Inte
 ### 📂 Dataset
 https://github.com/islavathgowtham/heart-disease-prediction-ML/blob/main/heart.csv
 ### 💻 Source Code
-https://github.com/gowtham/heart-disease-prediction-ml
-
+https://github.com/islavathgowtham/heart-disease-prediction-ML/blob/main/heart_disease_project%20(1).ipynb
 ---
 
 # 👨‍💻 AUTHOR
