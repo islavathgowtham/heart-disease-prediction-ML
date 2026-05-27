@@ -368,8 +368,7 @@ Overall, the developed system provides a valuable example of how Artificial Inte
 
 ---
 ### 📂 Dataset
-https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
-
+https://github.com/islavathgowtham/heart-disease-prediction-ML/blob/main/heart.csv
 ### 💻 Source Code
 https://github.com/gowtham/heart-disease-prediction-ml
 
