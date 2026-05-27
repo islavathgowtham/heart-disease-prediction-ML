@@ -299,6 +299,6 @@ This system can assist healthcare professionals in early diagnosis and decision-
 
 # 👨‍💻 Author
 
-**Gowtham**
+**Gowtham Islavath**
 
 Artificial Intelligence & Data Science Student
