@@ -367,6 +367,13 @@ The project highlights the importance of:
 Overall, the developed system provides a valuable example of how Artificial Intelligence and Data Science can contribute to healthcare solutions and assist medical professionals in making informed decisions.
 
 ---
+### 📂 Dataset
+https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+
+### 💻 Source Code
+https://github.com/gowtham/heart-disease-prediction-ml
+
+---
 
 # 👨‍💻 AUTHOR
 
